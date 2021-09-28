@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Agustin\\source\\repos\\tp1_RodriguezAgustin2D\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "C:\\Users\\Agustin\\source\\repos\\tp_laboratorio_2\\tp1_RodriguezAgustin2D\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "C:\\Users\\Agustin\\source\\repos\\tp1_RodriguezAgustin2D\\Entidades\\Entidades.csproj",
+      "projectPath": "C:\\Users\\Agustin\\source\\repos\\tp_laboratorio_2\\tp1_RodriguezAgustin2D\\Entidades\\Entidades.csproj",
       "packagesPath": "C:\\Users\\Agustin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Agustin\\source\\repos\\tp1_RodriguezAgustin2D\\Entidades\\obj\\",
+      "outputPath": "C:\\Users\\Agustin\\source\\repos\\tp_laboratorio_2\\tp1_RodriguezAgustin2D\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Agustin\\AppData\\Roaming\\NuGet\\NuGet.Config",
