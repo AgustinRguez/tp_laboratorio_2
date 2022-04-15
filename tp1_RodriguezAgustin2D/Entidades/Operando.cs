@@ -8,8 +8,9 @@ namespace Entidades
 {
     public class Operando
     {
+        //atributo
         private double numero;
-
+         
         public Operando()
         {
             this.numero = 0;
